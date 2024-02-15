@@ -1,4 +1,4 @@
-package Observer;
+package observer;
 
 public class Customer implements Observer{
     public String name;
